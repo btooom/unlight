@@ -1,0 +1,8 @@
+title: Unlight
+description: This is the project helping the players of the game can become more comfortable.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
